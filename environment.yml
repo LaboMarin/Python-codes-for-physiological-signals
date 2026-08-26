@@ -1,0 +1,14 @@
+name: steam-BIO
+channels:
+  - hcc
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - cvxopt
+  - jupyterlab
+  - bioread
+  - neurokit2
+  - spyder
+  - qtpy
+  - pyqt
